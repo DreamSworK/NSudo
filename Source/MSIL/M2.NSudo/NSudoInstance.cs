@@ -148,13 +148,6 @@ namespace M2.NSudo
                         Architecture.X64,
                         BaseDirectory + "x64\\NSudoAPI.dll");
                 }
-
-                if (!CachedBinaryPaths.ContainsKey(Architecture.Arm64))
-                {
-                    CachedBinaryPaths.Add(
-                        Architecture.Arm64,
-                        BaseDirectory + "ARM64\\NSudoAPI.dll");
-                }
             }
 
             this.ModuleHandle = Win32.LoadLibrary(

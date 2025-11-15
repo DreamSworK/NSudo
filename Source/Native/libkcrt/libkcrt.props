@@ -2,8 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     
-    <libkcrt_Platform Condition="'$(Platform)'=='ARM'">arm</libkcrt_Platform>
-    <libkcrt_Platform Condition="'$(Platform)'=='ARM64'">arm64</libkcrt_Platform>
     <libkcrt_Platform Condition="'$(Platform)'=='Win32'">x86</libkcrt_Platform>
     <libkcrt_Platform Condition="'$(Platform)'=='x64'">x64</libkcrt_Platform>
     
