@@ -66,9 +66,6 @@
     <None Include="Resources\en\Translations.toml">
       <Filter>Resources\en</Filter>
     </None>
-    <None Include="Resources\zh-Hans\Translations.toml">
-      <Filter>Resources\zh-Hans</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mile.Project.Properties.h" />
@@ -81,9 +78,6 @@
     </Filter>
     <Filter Include="Resources">
       <UniqueIdentifier>{975787bd-9e79-429e-83a0-b4578db89622}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Resources\zh-Hans">
-      <UniqueIdentifier>{316a9b80-e875-4034-a240-e5ad2af7ef14}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\en">
       <UniqueIdentifier>{6da1b7a9-8f67-4f63-a326-f882ddf0eaf0}</UniqueIdentifier>

@@ -60,13 +60,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NSudoPluginHost", "NSudoPlu
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Mile.Cpp\Mile.Library\Mile.Library.vcxitems*{074549f9-9197-41fe-a8ed-8bfa2a0e2549}*SharedItemsImports = 4
-		Mile.Cpp\Mile.Library\Mile.Library.vcxitems*{2b3e4f28-d499-4529-bec1-e0ed2003a385}*SharedItemsImports = 4
-		Mile.Cpp\Mile.Library\Mile.Library.vcxitems*{43c2bd57-4d61-42ec-b290-62a32b6fb5c7}*SharedItemsImports = 4
-		Mile.Cpp\Mile.Library\Mile.Library.vcxitems*{74324c26-d7b5-4bc7-94dd-1df65c45783b}*SharedItemsImports = 4
-		Mile.Cpp\Mile.Library\Mile.Library.vcxitems*{8f89c743-14c8-4442-812f-1f1816ffb88d}*SharedItemsImports = 4
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86

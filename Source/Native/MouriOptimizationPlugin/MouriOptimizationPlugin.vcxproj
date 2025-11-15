@@ -47,7 +47,6 @@
     <None Include="MouriOptimizationPlugin.def" />
     <None Include="MouriOptimizationPlugin.props" />
     <None Include="Resources\en\Translations.toml" />
-    <None Include="Resources\zh-Hans\Translations.toml" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mile.Project.Properties.h" />
